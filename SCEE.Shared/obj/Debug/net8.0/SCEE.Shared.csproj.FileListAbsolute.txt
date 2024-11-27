@@ -1,0 +1,12 @@
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\bin\Debug\net8.0\SCEE.Shared.deps.json
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\bin\Debug\net8.0\SCEE.Shared.dll
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\bin\Debug\net8.0\SCEE.Shared.pdb
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.AssemblyInfoInputs.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.AssemblyInfo.cs
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.csproj.CoreCompileInputs.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.sourcelink.json
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.dll
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\refint\SCEE.Shared.dll
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\SCEE.Shared.pdb
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\Proyecto\SCEE\SCEE\SCEE.Shared\obj\Debug\net8.0\ref\SCEE.Shared.dll

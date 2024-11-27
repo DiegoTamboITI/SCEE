@@ -1,0 +1,6 @@
+@SCEE.backend_HostAddress = http://localhost:5181
+
+GET {{SCEE.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
